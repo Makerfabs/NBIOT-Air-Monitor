@@ -77,7 +77,7 @@ void setup()
     }
 
     at_init();
-    http_request();
+    // http_request();
 }
 
 void loop()
